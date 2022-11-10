@@ -1,7 +1,7 @@
 # ***Mission to Mars: Scraping data with HTML***
 
 ## Overview and Purpose of Project
-In this project, we are web-scraping and analyzing data for the mission to Mars. We work with HTML elements on the Mars News website to identify id and class attributes to extract information using automated browsing with Splinter and Beautiful Soup, as well as Pandas to scrape data from tables. We are expected to scrape, organize, analyze and visualize the data and answer the following questions:
+In this project, we are web-scraping and analyzing data for the mission to Mars. We work with HTML elements on the Mars News website to identify id and class attributes to extract information using automated browsing tools like Splinter and Beautiful Soup, as well as Pandas to scrape data from tables. We are expected to scrape, organize, analyze and visualize the data and answer the following questions:
  
 - How many months exist on Mars?
 - How many Martian days worth of data exist in the scraped dataset?
